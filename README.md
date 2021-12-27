@@ -33,5 +33,3 @@ P Challenge based algorithm:
 	P 1 second cache for challenge
 P Using HMAC to sign the messages.
 
-
-![image](https://user-images.githubusercontent.com/68017211/147442893-8db3a6c0-1d5b-4cef-9cc8-c8ccd1ed6883.png)
